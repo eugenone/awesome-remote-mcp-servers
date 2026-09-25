@@ -1121,6 +1121,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Microburbs](https://www.microburbs.com.au/developers/api-docs) `https://api.microburbs.com.au/mcp`
   [![Microburbs MCP connector](https://glama.ai/mcp/connectors/au.com.microburbs/property-data/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.microburbs/property-data)
   🔓 - Australian property data at street and block level: street price forecasts, crime below the suburb, sale and rent history, comparable sales, schools, zoning and hazard risk. Connect anonymously to browse the tools; send `Bearer test` for the sample suburbs, or your own key for all 14,764.
+- [Neubau-Radar](https://neubau-radar.ch/integration) `https://neubau-radar.ch/mcp`
+  [![Neubau-Radar MCP connector](https://glama.ai/mcp/connectors/ch.neubau-radar/baupublikationen/badges/score.svg)](https://glama.ai/mcp/connectors/ch.neubau-radar/baupublikationen)
+  🔓 - Every official Swiss building application on the day it is published, with builder, architect and zone.
 - [Prism](https://prism.parad1gm.com/agents) `https://prism.parad1gm.com/api/prism-mcp`
   [![Prism MCP connector](https://glama.ai/mcp/connectors/com.parad1gm/prism/badges/score.svg)](https://glama.ai/mcp/connectors/com.parad1gm/prism)
   🔐 - Every deadline in a lease, mortgage, insurance policy or HOA document, with its date, consequence and source quote.
