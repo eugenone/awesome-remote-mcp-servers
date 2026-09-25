@@ -1124,6 +1124,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Prism](https://prism.parad1gm.com/agents) `https://prism.parad1gm.com/api/prism-mcp`
   [![Prism MCP connector](https://glama.ai/mcp/connectors/com.parad1gm/prism/badges/score.svg)](https://glama.ai/mcp/connectors/com.parad1gm/prism)
   🔐 - Every deadline in a lease, mortgage, insurance policy or HOA document, with its date, consequence and source quote.
+- [Zuerst zuhause](https://zuerstzuhause.ch/ratgeber/ki-assistenten) `https://zuerstzuhause.ch/mcp`
+  [![Zuerst zuhause MCP connector](https://glama.ai/mcp/connectors/ch.zuerstzuhause/neubauprojekte/badges/score.svg)](https://glama.ai/mcp/connectors/ch.zuerstzuhause/neubauprojekte)
+  🔓 - Swiss official building applications: new residential projects by municipality, months before they are advertised.
 
 ### 🚗 <a name="sales"></a>Sales
 
